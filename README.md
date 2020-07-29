@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Pytorch 
 - 💬 Ask me about [CSAI](https://github.com/calpoly-csai)!
 - 😄 Pronouns: She/Her
+- ⚡ Fun fact: I do research sometimes
 
 <!--
 **richagadgil/richagadgil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
