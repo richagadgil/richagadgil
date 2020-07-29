@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Richa!
 
 - 🔭 I’m currently working on problems at Apple
 - 🌱 I’m currently learning Pytorch 
