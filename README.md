@@ -1,7 +1,6 @@
-### Hi there 👋 I'm Richa!
+  Currently working on Health ML at Apple.
 
-- 💬 Ask me about [CSAI](https://github.com/calpoly-csai)!
-- 😄 Pronouns: She/Her
+
 
 
 <!--
