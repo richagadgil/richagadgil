@@ -1,4 +1,4 @@
-  Currently working on Health ML at Apple.
+Machine Learning Graduate Student at CMU
 
 
 
