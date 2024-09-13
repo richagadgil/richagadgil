@@ -1,4 +1,3 @@
-Machine Learning Graduate Student at CMU
 
 
 
